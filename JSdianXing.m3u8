@@ -125,3 +125,19 @@ rtp://239.49.8.118:8000
 rtp://239.49.8.120:8000
 #EXTINF:-1 ,江苏教育HD
 rtp://239.49.8.122:8000
+#EXTINF:-1 ,凤凰卫视中文台
+rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
+#EXTINF:-1 ,凤凰卫视资讯台
+rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
+#EXTINF:-1 ,凤凰卫视电影台
+rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
+#EXTINF:-1 ,星空卫视
+rtmp://ivi.bupt.edu.cn:1935/livetv/startv
+#EXTINF:-1 ,Star Sports
+rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
+#EXTINF:-1 ,Channel[V]
+rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
+#EXTINF:-1 ,探索频道
+rtmp://ivi.bupt.edu.cn:1935/livetv/discovery
+#EXTINF:-1 ,国家地理频道
+rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
